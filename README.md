@@ -19,8 +19,8 @@ This project is a REST API built using Spring Boot.
 
 GET /journal  
 POST /journal  
-PUT /journal/{id}  
-DELETE /journal/{id}
+PUT /journal/{id}/{idNumber} 
+DELETE /journal/{id}/{idNumber} 
 
 ## Author
 Sarveen
